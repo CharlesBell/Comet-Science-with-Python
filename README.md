@@ -1,3 +1,2 @@
 # Comet-Science-with-Python
-
-Jupyter notebooks for learning about comet science with python
+Comets Science with Python jupyter-notebooks for learning about comets
